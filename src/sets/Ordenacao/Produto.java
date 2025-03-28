@@ -1,4 +1,4 @@
-package maps.Ordenacao;
+package sets.Ordenacao;
 
 import java.util.Comparator;
 import java.util.Objects;

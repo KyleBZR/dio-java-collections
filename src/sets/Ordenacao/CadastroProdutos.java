@@ -1,4 +1,4 @@
-package maps.Ordenacao;
+package sets.Ordenacao;
 
 import java.util.HashSet;
 import java.util.Set;

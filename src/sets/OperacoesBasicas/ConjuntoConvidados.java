@@ -1,4 +1,4 @@
-package maps.OperacoesBasicas;
+package sets.OperacoesBasicas;
 
 import java.util.HashSet;
 import java.util.Set;

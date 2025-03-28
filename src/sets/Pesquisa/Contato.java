@@ -1,4 +1,4 @@
-package maps.Pesquisa;
+package sets.Pesquisa;
 
 import java.util.Objects;
 
